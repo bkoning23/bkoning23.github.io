@@ -1,3 +1,5 @@
 theme: jekyll-theme-tactile
 markdown: kramdown
 name: Brendan Koning Site
+
+permalink: /blog/:year/:month/:day/:title
